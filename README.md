@@ -10,4 +10,6 @@
  
  - [T. D. Drysdale & D. P. Reid, "Remote laboratories - student experience," ALT-ELESIG, Scotland, Online 2022-05-27](./ALT-ELESIG-2022-05-27.pdf) 
 
- - [T. D. Drysdale "Von Instrumentalismus nach Posthumanismus," Excellence in Teaching – The Future of Digital Learning, In-person, Mainz, Germany, 2022-05-27](./Digital-Excellence-2022-04-07.pdf) 
+ - [T. D. Drysdale "Von Instrumentalismus nach Posthumanismus," Excellence in Teaching – The Future of Digital Learning, In-person, Mainz, Germany, 2022-05-27](./Digital-Excellence-2022-04-07.pdf)
+
+ - https://www.dropbox.com/scl/fi/ztvefz3na6tpflf4x3wrs/alt2023-drysdale-v1.0.pptx?rlkey=os2zuleni2wfifq9x7t9hthuf&dl=0
